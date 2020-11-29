@@ -1,0 +1,12 @@
+{
+    "to":"dDv7cYQuRbmwkF1nonZDp9:APA91bG9frlCuNVFT4jkDwk35EbA75lAgJ9BuxRAO0qHwoGdc76V-A23D-JH3iWeNfIaZZKWMpijeM-hHxSycvDWUYu1AF2kSebKXuSlA8IRjyyARWPsx4GBat8hUxjBlDCtcstvcjNe",
+    "data":{
+    "key1":"hi",
+    "key2":"hello"
+    },
+    "notification":{
+        "title":"NewsApp",
+        "body":"new news Posted",
+        "image":"iojnnk"
+    }
+}
